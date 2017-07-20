@@ -1,0 +1,3 @@
+describe('Pass tests', ()=>{
+  true
+})
